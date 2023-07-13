@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "RunningPig"
-  text: "Code AI Money"
-  tagline: My great project tagline
+  text: "全栈+AI"
+  tagline: Java -> Python -> React, Maybe some C
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Java
+    details: 吃饭工具, 开发个人项目用
+  - title: Python
+    details: 以前是一名数据分析师, 现在用来写AI+的应用
+  - title: React+Vue
+    details: 小白一名, 实战导向自学派
 ---
-

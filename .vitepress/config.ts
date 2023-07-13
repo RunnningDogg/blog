@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "RunningPig",
-  description: "Code AI Money",
+  description: "Java AI React",
   srcDir: "docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
